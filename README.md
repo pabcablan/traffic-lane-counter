@@ -88,7 +88,7 @@ python code/MAIN.PY
 
 Durante la ejecución, el sistema muestra los siguientes elementos visuales en tiempo real:
 
-![Gif]()
+![](https://i.imgur.com/BGdnNat.gif)
 
 **Elementos visuales:**
 - 🚦 **Líneas carril**: Delimitan los puntos de conteo para cada carril
