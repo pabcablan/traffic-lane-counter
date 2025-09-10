@@ -114,8 +114,8 @@ Velocidad de carril 2: 115.92 píxeles/seg
 
 ## 👥 Autores
 
-- Pablo Herrera González – Algoritmos y análisis computacional.
-- Pablo Cabeza Lantigua – Procesamiento de vídeo y optimización.
+- [Pablo Herrera González](https://github.com/D4rk-h) – Algoritmos y análisis computacional.
+- [Pablo Cabeza Lantigua](https://github.com/pabcablan) – Procesamiento de vídeo y optimización.
 
 
 ## 📄 Licencia
