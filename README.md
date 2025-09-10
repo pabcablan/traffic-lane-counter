@@ -88,11 +88,13 @@ python code/MAIN.PY
 
 Durante la ejecución, el sistema muestra los siguientes elementos visuales en tiempo real:
 
-![](https://i.imgur.com/BGdnNat.gif)
+![](https://github.com/user-attachments/assets/0abc1b41-8e5f-4ed5-9c43-0be849b38934)
+
 
 **Elementos visuales:**
 - 🚦 **Líneas carril**: Delimitan los puntos de conteo para cada carril
 - 📊 **Contadores**: Muestran el número actual de vehículos detectados por carril 
+- 🔍 **Máscara**: Aunque no se muestra en el GIF, el sistema también abre una ventana con la máscara de sustracción de fondo, útil para depuración y ajuste de parámetros
 
 **Salida por consola:**
 ```
@@ -112,7 +114,7 @@ Velocidad de carril 2: 115.92 píxeles/seg
 
 ## 👥 Autores
 
-- <a href="https://github.com/D4rk-h">Pablo Herrera González</a> – Algoritmos y análisis computacional.
+- Pablo Herrera González – Algoritmos y análisis computacional.
 - Pablo Cabeza Lantigua – Procesamiento de vídeo y optimización.
 
 
